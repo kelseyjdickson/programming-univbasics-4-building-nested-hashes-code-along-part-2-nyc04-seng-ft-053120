@@ -24,7 +24,7 @@ def update_status
   # Code your solution here:
 
   epic_tragedy[:montague][:hero][:name][:status] = 'dead'
-  epic_tragedy[:capulet][:hero][:status] = 'dead'
+  epic_tragedy[:capulet][:hero][:name][:status] = 'dead'
 
 
 
